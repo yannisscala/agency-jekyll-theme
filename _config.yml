@@ -1,8 +1,13 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+
+markdown: redcarpet
+
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+
 
 # Site settings
-title: Awesome Title
+title: Le sucre
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -14,34 +19,26 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Yannis Scala
+  pic: yannis
+  position: Lycéen en première S à Champlain
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/yannis.scala
+    - title: google-plus
+      url: https://plus.google.com/112606112660395660595
 
-- name: Larry Parker
+- name: Theo Pasquali
   pic: 2
-  position: Lead Marketer
+  position: Lycéen en première S à Champlain
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://www.facebook.com/theo94lqb
 
-- name: Diana Petersen
+- name: Hugo Leduc
   pic: 3
-  position: Lead Developer
+  position: Lycéen en première S à Champlain
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
     - title: google-plus
