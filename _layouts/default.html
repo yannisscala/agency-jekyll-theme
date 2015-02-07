@@ -1,17 +1,23 @@
 <!DOCTYPE html>
+
 <html>
 
   {% include head.html %}
 
 
-    <body id="page-top" class="index">
+  <body id="page-top" class="index">
 
     {% include header.html %}
-    {% include intro.html %}
-    {% include portfolio_grid.html %}
-    {% include about.html %}
+    {% for post in site.posts reversed %}
+    {% assign page = post %}
+    {% assign content = post.content %}
+
+      {% include section.html %}
+
+    {% endfor %}
+
+
     {% include team.html %}
-    {% include clients.html %}
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}

@@ -18,18 +18,17 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
+
+                    {% for post in site.posts reversed %}
+                    {% assign page = post %}
+                    {% assign content = post.content %}
                     <li>
-                        <a class="page-scroll" href="#intro">Introduction</a>
+                        <a class="page-scroll" href="#{{ post.anchorId }}">{{ post.title }}</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Expériences</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">Explications</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">Jeux</a>
-                    </li>
+
+
+                    {% endfor %}
+
                     <li>
                         <a class="page-scroll" href="#team">Team</a>
                     </li>
