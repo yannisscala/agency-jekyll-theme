@@ -18,21 +18,21 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
+
+                    {% for post in site.posts reversed %}
+                    {% assign page = post %}
+                    {% assign content = post.content %}
                     <li>
-                        <a class="page-scroll" href="#services">Services</a>
+                        <a class="page-scroll" href="#{{ post.anchorId }}">{{ post.title }}</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
+
+
+                    {% endfor %}
+
                     <li>
                         <a class="page-scroll" href="#team">Team</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
+
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -44,9 +44,9 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Welcome To Our Studio!</div>
-                <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                <div class="intro-lead-in">Travaux personnels encadrés</div>
+                <div class="intro-heading">Sujet : Le sucre</div>
+                <a href="#intro" class="page-scroll btn btn-xl">Commencer !</a>
             </div>
         </div>
     </header>
