@@ -29,20 +29,15 @@ people:
       url: https://plus.google.com/112606112660395660595
 
 - name: Theo Pasquali
-  pic: 2
+  pic: theo
   position: Lycéen en première S à Champlain
   social:
     - title: facebook
       url: https://www.facebook.com/theo94lqb
 
 - name: Hugo Leduc
-  pic: 3
+  pic: hugo
   position: Lycéen en première S à Champlain
-  social:
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
