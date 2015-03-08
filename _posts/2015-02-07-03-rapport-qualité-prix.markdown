@@ -31,6 +31,6 @@ Lors du passage en solution les molécules restent intactes. Donc pour que le su
 ### Résultat
 
 D'après les résultats quasiment nuls, les deux sucres ne sont pas conducteurs car ils ont des molécules covalentes. 
-Dans cette expérience le sucre blanc atteint une conductivité de 0,9 et le sucre roux 1,2. On peut donc dire que les deux sucres utilisés étaient de bonne qualités.
+Dans cette expérience le sucre blanc atteint une conductivité de 0,9 et le sucre roux 1,2. On peut donc dire que les deux sucres utilisés étaient de bonne qualité.
 
 
