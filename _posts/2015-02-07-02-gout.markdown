@@ -1,0 +1,37 @@
+---
+title: Le goût
+anchorId: gout
+---
+
+
+Le sucre roux a un goût plus caramélisé , mais est-ce la seule différence au niveau du goût ?
+Le niveau d'acidité joue un rôle important dans la perception du goût. Nous sommes donc allés à l'UPEC pour connaître le Ph de ces sucres. Voici le mode opératoire :
+L’expérience consiste a mesurer le pH des sucres blanc et roux dissous dans deux solutions distinctes afin de comparer leur acidité.
+
+### Matériel
+
+-  Papier pH
+-  pH-mètre
+-  les deux solutions de sucre blanc et de sucre roux utilisées dans l’expérience précédente.
+-  Agitateur et barreaux magnétiques
+
+### Mode opératoire
+
+-  Tremper une languette de papier pH dans chaque solution de sucre et en conclure les valeurs
+ approchées de pH.
+Cependant, l’utilisation du papier pH présente des résultats trop rapprochés.
+On renouvelle donc l’expérience de la mesure du pH avec l’utilisation cette fois-ci du pH-mètre :
+-  Étalonner le pH-mètre grâce à deux solutions de pH connues (dans notre cas nous avons utilisé une solution de pH 4 et une solution de pH 7).
+-  Prendre la première solution (de sucre blanc) avec le barreau magnétique, la mettre sur l’agitateur afin de l’homogénéiser.
+-  Y tremper la sonde du pH-mètre (préalablement nettoyée) puis relever la valeur affichée.
+-  Répéter les deux dernières étapes pour la deuxième solution de sucre roux.
+
+### Résultat
+
+On observe que les résultats sont similaires donc l'acidité des deux sucres est quasiment identique. Ils sont tous les deux légèrement acides. 
+
+Le pH ne permet pas de distinguer les deux sucres , mais une question reste en suspens , faut il autant de sucre roux que de sucre blanc pour pouvoir sucrer des aliments ?
+
+C'est ce qu'on appelle le pouvoir sucrant. Il est déterminé, par rapport à une référence, en général une solution de saccharose (sucre blanc), dont le pouvoir sucrant est égal par définition à 1. C'est un nombre sans unité car obtenu via le rapport de deux grandeurs exprimées dans la même unité (masse ou concentration). Ainsi, à la même saveur sucrée, le rapport entre la masse (gramme) de saccharose et de substance sucrée présente en solution aqueuse donne un pouvoir sucrant basé sur la masse. De même, le pouvoir sucrant peut être calculé sur le rapport de la concentration molaire C (mol/L) des deux espèces, c'est pourquoi il faut bien préciser l'origine de la comparaison, masse ou concentration. La comparaison peut se faire à faible concentration (seuil de reconnaissance) ou forte concentration (10 %) habituellement utilisée dans l'alimentation.
+Les ingrédients dont le pouvoir sucrant est voisin de 1 sont appelés édulcorants de masse ou de charge. Lorsque le pouvoir sucrant d'un ingrédient est bien supérieur à celui du sucre, on parle d'édulcorants intenses.
+ En effet le sucre blanc a un pouvoir sucrant un peu plus élevé. Le saccharose a un pouvoir sucrant de 1 , le sucre blanc est composé de 99% alors que le sucre roux de 96,9%. La cristallisation retire quasiment toutes les impuretés, cette étape change donc la couleur , le goût et le pouvoir sucrant en le rendant plus élevé !
